@@ -33,6 +33,7 @@ KeePass is a free open source password manager, which helps you to manage your p
     * [Source code](https://github.com/keepassxreboot/keepassxc)
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
     * [Source Code](https://github.com/keeweb/keeweb)
+* [KeePass-electron](https://github.com/IlyaPomaskin/KeePass-electron) - Desktop HTML5 client for KeePass 2.
 
 #### Windows clients
 
@@ -74,6 +75,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [libkeepass](https://github.com/libkeepass/libkeepass) - `python` Low-level Python (2.7/3.x) module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files. 
 * [kdbxweb](https://github.com/keeweb/kdbxweb) - `javascript` High-performance javascript library for reading/writing KeePass v2 databases (kdbx) in node.js or browser.
 * [keepass.io](https://github.com/snapserv/keepass.io) - `javascript` Node.js library for reading and writing KeePass databases.
+* [KeePassKit](https://github.com/MacPass/KeePassKit) - `Objective-C` KeePass database loading, storing and manipulation framework.
 
 ## Plugins
 
@@ -81,6 +83,8 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [Keebuntu](https://github.com/dlech/Keebuntu) - KeePass 2.x plugins that provide Linux Desktop integration.
 * [KeeAgent](https://github.com/dlech/KeeAgent) - Plugin for KeePass 2.x. It allows other programs to access SSH keys stored in your KeePass database for authentication.
 * [AdvancedConnectPlugin](https://github.com/aalbng/AdvancedConnectPlugin) - Plugin for KeePass which gives you the possibility to provide different applications for direct connections.
+* [SIC2KeePass](https://github.com/Alezy80/SIC2KeePass) - This plugin allows to transfer SafeInCloud databases directly or via exported XML file into KeePass 2.xx password manager.
+* [QuickConnectPlugin](https://github.com/cristianst85/QuickConnectPlugin) - Plugin that allows you to connect to Windows/Linux/ESXi hosts.
 
 ## Misc
 
@@ -92,7 +96,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 ## Security
 
 * [mod0keecrack](https://github.com/devio/mod0keecrack) - KeePass 2 database master-password cracker.
-* []()
+* [KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from memory.
 
 ## Docs and articles
 
