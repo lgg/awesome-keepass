@@ -20,6 +20,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [Misc](#misc)
 * [Security](#security)
 * [Docs and articles](#docs-and-articles)
+    * [Docs and articles](#docs-and-articles-ru)
 
 ## Clients
 
@@ -101,9 +102,13 @@ KeePass is a free open source password manager, which helps you to manage your p
 ## Docs and articles
 
 * [KeePass Help Center](https://keepass.info/help/base/index.html) - Official docs and tutorials.
-* [How I made web-version of KeePass](https://habrahabr.ru/post/269895/) - `ru` Info about kdbx format and developing an app for it.
 * [KDBX 4](https://keepass.info/help/kb/kdbx_4.html) - Info about KDBX 4 file format.
 * [Reverse Engineered KeePass (KDBX) File Format](https://max-weller.github.io/kdbx-viewer/kdbx_format.html)
 * [Reading a Keepass 2 file with Go](https://www.sysorchestra.com/2015/06/20/reading-a-keepass-file-from-go/)
 * [Keepass file format explained](https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45)
 * [KeePass v2.x (KDBX v3.x) file format](https://gist.github.com/msmuenchen/9318327)
+
+### Docs and articles RU
+
+* [How I made web-version of KeePass](https://habrahabr.ru/post/269895/) - `ru` Info about kdbx format and developing an app for it.
+
