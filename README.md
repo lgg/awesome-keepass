@@ -8,6 +8,9 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 * [Clients](#clients)
     * [Desktop clients](#desktop-clients)
+        * [Cross-platform clients](#сross-platform)
+        * [Windows clients](#windows-clients)
+        * [MacOS clients](#macos-clients)
     * [Web clients](#web-clients)
     * [iOS clients](#ios-clients)
     * [Android clients](#android-clients)
@@ -31,13 +34,13 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
     * [Source Code](https://github.com/keeweb/keeweb)
 
-#### Windows
+#### Windows clients
 
 * []()
 * []()
 * []()
 
-#### MacOS
+#### MacOS clients
 
 * [MacPass](https://mstarke.github.io/MacPass/) - Native OS X KeePass client.
     * [Source code](https://github.com/mstarke/MacPass)
