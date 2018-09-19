@@ -46,6 +46,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 * [MacPass](https://mstarke.github.io/MacPass/) - Native OS X KeePass client.
     * [Source code](https://github.com/mstarke/MacPass)
+* [Kypass Companion](http://www.kyuran.be/software/kypass4mac/) - A native KeePass compatible client for macOS (database format 1 and 2).
 
 ### Web clients
 
@@ -58,6 +59,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 * [MiniKeePass](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808) - MiniKeePass provides secure password storage on your phone that's compatible with KeePass.
     * [Source Code](https://github.com/MiniKeePass/MiniKeePass)
+* [Kypass 4](http://www.kyuran.be/software/kypass/) - KyPass is a Password Management for iPhone and iPad.
 
 ### Android clients
 
