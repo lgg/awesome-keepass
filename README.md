@@ -77,6 +77,8 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [kdbxweb](https://github.com/keeweb/kdbxweb) - `javascript` High-performance javascript library for reading/writing KeePass v2 databases (kdbx) in node.js or browser.
 * [keepass.io](https://github.com/snapserv/keepass.io) - `javascript` Node.js library for reading and writing KeePass databases.
 * [KeePassKit](https://github.com/MacPass/KeePassKit) - `Objective-C` KeePass database loading, storing and manipulation framework.
+* [KeePassJava2](https://github.com/jorabin/KeePassJava2) - `Java` Java API for KeePass Password Databases - Read/Write 2.x, Read 1.x
+* [openkeepass](https://github.com/cternes/openkeepass) - `Java` A java library for reading and writing KeePass databases. It is an intuitive java library that supports KeePass 2.x database files.
 
 ## Plugins
 
