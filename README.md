@@ -112,3 +112,6 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 * [How I made web-version of KeePass](https://habrahabr.ru/post/269895/) - `ru` Info about kdbx format and developing an app for it.
 
+## License
+
+* MIT, [lgg](https://github.com/lgg) and [contributors](https://github.com/lgg/awesome-keepass/graphs/contributors)   
