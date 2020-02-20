@@ -75,7 +75,8 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 ## API libraries
 
-* [libkeepass](https://github.com/libkeepass/libkeepass) - `python` Low-level Python (2.7/3.x) module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files. 
+* [libkeepass](https://github.com/libkeepass/libkeepass) - `python` Low-level Python (2.7/3.x) module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files. *deprecated - use pykeepass*
+* [pykeepass](https://github.com/libkeepass/pykeepass) - `python` Python library to interact with keepass databases (supports KDBX3 and KDBX4) 
 * [kdbxweb](https://github.com/keeweb/kdbxweb) - `javascript` High-performance javascript library for reading/writing KeePass v2 databases (kdbx) in node.js or browser.
 * [keepass.io](https://github.com/snapserv/keepass.io) - `javascript` Node.js library for reading and writing KeePass databases.
 * [KeePassKit](https://github.com/MacPass/KeePassKit) - `Objective-C` KeePass database loading, storing and manipulation framework.
