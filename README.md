@@ -77,6 +77,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 * [libkeepass](https://github.com/libkeepass/libkeepass) - `python` Low-level Python (2.7/3.x) module to read KeePass 1.x/KeePassX (v3) and KeePass 2.x (v4) files. 
 * [kdbxweb](https://github.com/keeweb/kdbxweb) - `javascript` High-performance javascript library for reading/writing KeePass v2 databases (kdbx) in node.js or browser.
+* [keepass-rs](https://github.com/sseemayer/keepass-rs) - `Rust` Rust library for reading KeePass database files (kdbx).
 * [keepass.io](https://github.com/snapserv/keepass.io) - `javascript` Node.js library for reading and writing KeePass databases.
 * [KeePassKit](https://github.com/MacPass/KeePassKit) - `Objective-C` KeePass database loading, storing and manipulation framework.
 * [KeePassJava2](https://github.com/jorabin/KeePassJava2) - `Java` Java API for KeePass Password Databases - Read/Write 2.x, Read 1.x
@@ -96,6 +97,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [kdbxviewer](http://max-weller.github.io/kdbx-viewer/) - Command-line tool written in C for KeePass2 Database files (kdbx).
     * [Source code](https://github.com/max-weller/kdbxviewer)
 * [keepass-chrome](https://github.com/btd/keepass-chrome) - Small proof of concept extension that loads keepass .kdbx files and allow to get and add passwords.
+* [keepass-diff](https://github.com/Narigo/keepass-diff) - Command-line tool written in Rust to show differences between two KeePass Database files.
 * [passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp).
 
 ## Security
