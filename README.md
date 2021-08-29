@@ -60,6 +60,8 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [MiniKeePass](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808) - MiniKeePass provides secure password storage on your phone that's compatible with KeePass.
     * [Source Code](https://github.com/MiniKeePass/MiniKeePass)
 * *closed source* [Kypass 4](http://www.kyuran.be/software/kypass/) - KyPass is a Password Management for iPhone and iPad.
+* [Strongbox](https://strongboxsafe.com/) - A Personal Password Manager for iOS & OSX
+    * [Source](https://github.com/strongbox-password-safe/Strongbox)
 
 ### Android clients
 
@@ -92,6 +94,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [AdvancedConnectPlugin](https://github.com/aalbng/AdvancedConnectPlugin) - Plugin for KeePass which gives you the possibility to provide different applications for direct connections.
 * [SIC2KeePass](https://github.com/Alezy80/SIC2KeePass) - This plugin allows to transfer SafeInCloud databases directly or via exported XML file into KeePass 2.xx password manager.
 * [QuickConnectPlugin](https://github.com/cristianst85/QuickConnectPlugin) - Plugin that allows you to connect to Windows/Linux/ESXi hosts.
+* [HIBP Offline Check](https://github.com/mihaifm/HIBPOfflineCheck) - a KeePass plugin for Have I been pwned, can perform both offline and online checks against the password breach list for any selected password entry
 
 ## Misc
 
