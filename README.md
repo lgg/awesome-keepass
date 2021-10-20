@@ -38,9 +38,8 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 #### Windows clients
 
-* [Keepass Official Desktop Client]()
-* []()
-* []()
+* [Keepass Official Desktop Client](https://keepass.info/download.html)
+
 
 #### MacOS clients
 
