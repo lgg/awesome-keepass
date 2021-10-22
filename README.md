@@ -108,6 +108,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 * [mod0keecrack](https://github.com/devio/mod0keecrack) - KeePass 2 database master-password cracker.
 * [KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from memory.
+* [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - Extracts master password from a KeePass 2.x database, directly from memory. Inspired by KeeFarce.
 
 ## Docs and articles
 
