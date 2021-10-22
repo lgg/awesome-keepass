@@ -94,6 +94,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [SIC2KeePass](https://github.com/Alezy80/SIC2KeePass) - This plugin allows to transfer SafeInCloud databases directly or via exported XML file into KeePass 2.xx password manager.
 * [QuickConnectPlugin](https://github.com/cristianst85/QuickConnectPlugin) - Plugin that allows you to connect to Windows/Linux/ESXi hosts.
 * [HIBP Offline Check](https://github.com/mihaifm/HIBPOfflineCheck) - a KeePass plugin for Have I been pwned, can perform both offline and online checks against the password breach list for any selected password entry
+* [KPSimpleBackup](https://github.com/marvinweber/KPSimpleBackup) - This simple plugin lets you backup your .KDBX file with many advanced options
 
 ## Misc
 
