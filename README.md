@@ -1,4 +1,4 @@
-# Awesome KeePass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome KeePass Projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of [KeePass](https://keepass.info/)-related projects.
 
@@ -38,9 +38,8 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 #### Windows clients
 
-* []()
-* []()
-* []()
+* [Keepass Official Desktop Client](https://keepass.info/download.html)
+
 
 #### MacOS clients
 
@@ -95,6 +94,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [SIC2KeePass](https://github.com/Alezy80/SIC2KeePass) - This plugin allows to transfer SafeInCloud databases directly or via exported XML file into KeePass 2.xx password manager.
 * [QuickConnectPlugin](https://github.com/cristianst85/QuickConnectPlugin) - Plugin that allows you to connect to Windows/Linux/ESXi hosts.
 * [HIBP Offline Check](https://github.com/mihaifm/HIBPOfflineCheck) - a KeePass plugin for Have I been pwned, can perform both offline and online checks against the password breach list for any selected password entry
+* [KPSimpleBackup](https://github.com/marvinweber/KPSimpleBackup) - This simple plugin lets you backup your .KDBX file with many advanced options
 
 ## Misc
 
@@ -108,6 +108,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 
 * [mod0keecrack](https://github.com/devio/mod0keecrack) - KeePass 2 database master-password cracker.
 * [KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from memory.
+* [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - Extracts master password from a KeePass 2.x database, directly from memory. Inspired by KeeFarce.
 
 ## Docs and articles
 
