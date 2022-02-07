@@ -65,8 +65,8 @@ KeePass is a free open source password manager, which helps you to manage your p
     * [Source code](https://github.com/strongbox-password-safe/Strongbox)
 * [KeePassium](https://keepassium.com/) - Commercial Open-Source Password Manager for iOS. Free tier available.
     * [Source code](https://github.com/keepassium/KeePassium)
-* *closed source* [Kypass 4](http://www.kyuran.be/software/kypass/) - KyPass is a Password Management for iPhone and iPad.
-* ~~[MiniKeePass](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808) - MiniKeePass provides secure password storage on your phone that's compatible with KeePass.~~
+* `closed source` [Kypass 4](http://www.kyuran.be/software/kypass/) - KyPass is a Password Management for iPhone and iPad.
+* `discontinued` ~~[MiniKeePass](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808) - MiniKeePass provides secure password storage on your phone that's compatible with KeePass.~~
     * [Source Code](https://github.com/MiniKeePass/MiniKeePass)
 
 
