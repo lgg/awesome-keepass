@@ -75,6 +75,8 @@ KeePass is a free open source password manager, which helps you to manage your p
     * [Source code](https://github.com/PhilippC/keepass2android)
 * [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) - KeePass implementation for android.
     * [Source code](https://github.com/bpellin/keepassdroid)
+* [KeepassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - Beta password manager for Android.
+    * [Source code](https://github.com/Kunzisoft/KeePassDX)
 
 ### Other clients
 
@@ -110,6 +112,7 @@ KeePass is a free open source password manager, which helps you to manage your p
 * [keepass-chrome](https://github.com/btd/keepass-chrome) - Small proof of concept extension that loads keepass .kdbx files and allow to get and add passwords.
 * [keepass-diff](https://github.com/Narigo/keepass-diff) - Command-line tool written in Rust to show differences between two KeePass Database files.
 * [passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp).
+* [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - Extension for [Chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk) and [Firefox](https://addons.mozilla.org/es/firefox/addon/keepassxc-browser/) to allow auto form-fill passwords from KeepassXC.
 
 ## Security
 
