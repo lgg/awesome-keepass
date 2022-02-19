@@ -44,7 +44,6 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 * [Keepass Official Desktop Client](https://keepass.info/download.html)
 * [ModernKeePass](https://github.com/wismna/ModernKeePass) - `C#` KDBX password manager for the Windows Store
-* []() - ``
 * [KeePass4D](https://github.com/evpobr/KeePass4D) - `delphi` KeePass4D is password manager written in Delphi with Kdbx
   format support.
 
