@@ -11,7 +11,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 * [Clients](#clients)
     * [Desktop clients](#desktop-clients)
-        * [Cross-platform clients](#сross-platform)
+        * [Cross-platform clients](#cross-platform)
         * [Windows clients](#windows-clients)
         * [MacOS clients](#macos-clients)
     * [Web clients](#web-clients)
@@ -21,30 +21,35 @@ and most secure encryption algorithms currently known (AES and Twofish).
     * [Other clients](#other-clients)
 * [API libraries](#api-libraries)
 * [Plugins](#plugins)
-* [Misc](#misc)
+* [Tools](#tools))
 * [Security](#security)
 * [Docs and articles](#docs-and-articles)
     * [Docs and articles](#docs-and-articles-ru)
 
 ## Clients
 
-### Desktop clients
-
-#### Cross-platform
+### Cross-platform
 
 * [KeePass](https://sourceforge.net/projects/keepass/) - Official client.
     * [mirror of KeePass2.x source code](https://github.com/dlech/KeePass2.x)
 * [KeePassXC](https://keepassxc.org/) - KeePass Cross-Platform Community Edition.
-    * [Source code](https://github.com/keepassxreboot/keepassxc)
+    * [Source code](https://github.com/keepassxreboot/keepassxc) - `C++` KeePassXC is a cross-platform community-driven
+      port of the Windows application “Keepass Password Safe”
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
     * [Source Code](https://github.com/keeweb/keeweb)
+* [AuthPass](https://github.com/authpass/authpass) - `Dart` Password Manager based on Flutter for all platforms. Keepass
+  2.x (kdbx 3.x) compatible
 * [KeePass-electron](https://github.com/IlyaPomaskin/KeePass-electron) - Desktop HTML5 client for KeePass 2.
 
-#### Windows clients
+### Windows clients
 
 * [Keepass Official Desktop Client](https://keepass.info/download.html)
+* [ModernKeePass](https://github.com/wismna/ModernKeePass) - `C#` KDBX password manager for the Windows Store
+* []() - ``
+* [KeePass4D](https://github.com/evpobr/KeePass4D) - `delphi` KeePass4D is password manager written in Delphi with Kdbx
+  format support.
 
-#### MacOS clients
+### MacOS clients
 
 * [MacPass](https://mstarke.github.io/MacPass/) - Native OS X KeePass client.
     * [Source code](https://github.com/mstarke/MacPass)
@@ -55,11 +60,14 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 ### Web clients
 
-* [keepass4web](https://github.com/lixmal/keepass4web/) - Application that serves KeePass database entries on a web
-  frontend.
 * [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass.
+* [keepass4web](https://github.com/lixmal/keepass4web/) - `perl+js` Application that serves KeePass database entries on
+  a web frontend
 * [BrowsePass](https://bitbucket.org/namn/browsepass/overview) - Web application to read KDBX files.
 * [keepass-node](https://github.com/gesellix/keepass-node) - KeePass2 editor for Node.js with a browser frontend.
+* [Kee Vault](https://github.com/kee-org/keevault) - `js` Kee Vault is a password manager for your web browser. Password
+  databases (Vaults) are encrypted using the KeePass storage format before being sent to a remote server for
+  synchronisation across any modern device/browser
 
 ### iOS clients
 
@@ -70,7 +78,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
   available.
     * [Source code](https://github.com/strongbox-password-safe/Strongbox)
 * [KeePassium](https://keepassium.com/) - Commercial Open-Source Password Manager for iOS. Free tier available.
-    * [Source code](https://github.com/keepassium/KeePassium)
+    * [Source code](https://github.com/keepassium/KeePassium) - `swift` KeePass-compatible password manager for iOS
 * `closed source` [Kypass 4](http://www.kyuran.be/software/kypass/) - KyPass is a Password Management for iPhone and
   iPad.
 * `discontinued` ~~[MiniKeePass](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808) - MiniKeePass
@@ -88,14 +96,37 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeepassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - Beta password manager for
   Android.
     * [Source code](https://github.com/Kunzisoft/KeePassDX)
+* [TinyKeePass](https://github.com/sorz/TinyKeePass) - `Java/Kotlin` Another simple read-only KeePass Android app
 
 ### Extensions clients
-* [KeePass Secret Management Extension for PowerShell](https://github.com/JustinGrote/SecretManagement.KeePass) - An extension vault that uses KeePass for the PowerShell Secret Management module. Store credentials, passwords, API keys, etc. for use in PowerShell scripts.
+
+* [KeePass Secret Management Extension for PowerShell](https://github.com/JustinGrote/SecretManagement.KeePass) - An
+  extension vault that uses KeePass for the PowerShell Secret Management module. Store credentials, passwords, API keys,
+  etc. for use in PowerShell scripts
 
 ### Other clients
 
-* [WinPass](https://github.com/gkardava/WinPass) - KeePass password manager client for Windows Mobile.
-* [KeePassTouch](https://github.com/DannyGB/KeePassTouch) - Ubuntu Touch Version of KeePass.
+* [WinPass](https://github.com/gkardava/WinPass) - KeePass password manager client for Windows Mobile
+* [KeePassTouch](https://github.com/DannyGB/KeePassTouch) - `QML&C++` Ubuntu Touch Version of KeePass
+* [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) - `rust` Helper that allows Git (
+  and shell scripts) to use KeePassXC as credential store
+* [passhole](https://github.com/Evidlo/passhole) - `python` passhole is a commandline password manager for KeePass
+  inspired by [pass](https://www.passwordstore.org/)
+* [kdbxviewer](http://max-weller.github.io/kdbx-viewer/) - Command-line tool written in C for KeePass2 Database files (
+  kdbx).
+    * [Source code](https://github.com/max-weller/kdbxviewer)
+* [keepass-chrome](https://github.com/btd/keepass-chrome) - Small proof of concept extension that loads keepass .kdbx
+  files and allow to get and add passwords.
+* [keepass-diff](https://github.com/Narigo/keepass-diff) - Command-line tool written in Rust to show differences between
+  two KeePass Database files.
+* [passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill
+  passwords from KeePass (requires KeePassHttp).
+* [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - Extension
+  for [Chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk)
+  and [Firefox](https://addons.mozilla.org/es/firefox/addon/keepassxc-browser/) to allow auto form-fill passwords from
+  KeepassXC.
+* [Tusk](https://github.com/subdavis/Tusk) - `archived` - `js` KeePass-compatible browser extension for filling
+  passwords.
 
 ## API libraries
 
@@ -103,8 +134,8 @@ and most secure encryption algorithms currently known (AES and Twofish).
   1.x/KeePassX (v3) and KeePass 2.x (v4) files. *deprecated - use pykeepass*
 * [pykeepass](https://github.com/libkeepass/pykeepass) - `python` Python library to interact with keepass databases (
   supports KDBX3 and KDBX4)
-* [kdbxweb](https://github.com/keeweb/kdbxweb) - `javascript` High-performance javascript library for reading/writing
-  KeePass v2 databases (kdbx) in node.js or browser.
+* [kdbxweb](https://github.com/keeweb/kdbxweb) - `typescript` dbxWeb is a high-performance javascript library for
+  reading/writing KeePass v2 databases (kdbx) in node.js or browser
 * [keepass-rs](https://github.com/sseemayer/keepass-rs) - `Rust` Rust library for reading KeePass database files (kdbx).
 * [keepass.io](https://github.com/snapserv/keepass.io) - `javascript` Node.js library for reading and writing KeePass
   databases.
@@ -132,22 +163,17 @@ and most secure encryption algorithms currently known (AES and Twofish).
   perform both offline and online checks against the password breach list for any selected password entry
 * [KPSimpleBackup](https://github.com/marvinweber/KPSimpleBackup) - This simple plugin lets you backup your .KDBX file
   with many advanced options
+* [KeePassWinHello](https://github.com/sirAndros/KeePassWinHello) - `C#` Quick unlock KeePass 2 database using
+  biometrics with Windows Hello
 
-## Misc
+## Tools
 
-* [kdbxviewer](http://max-weller.github.io/kdbx-viewer/) - Command-line tool written in C for KeePass2 Database files (
-  kdbx).
-    * [Source code](https://github.com/max-weller/kdbxviewer)
-* [keepass-chrome](https://github.com/btd/keepass-chrome) - Small proof of concept extension that loads keepass .kdbx
-  files and allow to get and add passwords.
-* [keepass-diff](https://github.com/Narigo/keepass-diff) - Command-line tool written in Rust to show differences between
-  two KeePass Database files.
-* [passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill
-  passwords from KeePass (requires KeePassHttp).
-* [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - Extension
-  for [Chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk)
-  and [Firefox](https://addons.mozilla.org/es/firefox/addon/keepassxc-browser/) to allow auto form-fill passwords from
-  KeepassXC.
+* [pass import](https://github.com/roddhjav/pass-import) - `python` A pass extension for importing data from most of the
+  existing password manager.
+* [KeePass2 to KeePassX Convertor](https://github.com/dvorka/keepass2-to-keepassx) - `java` KeePass2 to KeePassX
+  password database convertor.
+* [enpass-to-keepass](https://github.com/jsphpl/enpass-to-keepass) - `python` Convert an Enpass csv export so it can be
+  imported to a KeePass database using KeePassXC
 
 ## Security
 
