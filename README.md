@@ -10,10 +10,9 @@ and most secure encryption algorithms currently known (AES and Twofish).
 ## Content
 
 * [Clients](#clients)
-    * [Desktop clients](#desktop-clients)
-        * [Cross-platform clients](#cross-platform)
-        * [Windows clients](#windows-clients)
-        * [MacOS clients](#macos-clients)
+    * [Cross-platform clients](#cross-platform)
+    * [Windows clients](#windows-clients)
+    * [MacOS clients](#macos-clients)
     * [Web clients](#web-clients)
     * [iOS clients](#ios-clients)
     * [Android clients](#android-clients)
