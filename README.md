@@ -146,7 +146,8 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 ## Plugins
 
-* [keepasshttp](https://github.com/pfn/keepasshttp/) - KeePass plugin to expose password entries securely (256bit
+* [KeeAnywhere](https://github.com/Kyrodan/KeeAnywhere) - KeePass plugin that provides access to cloud storage providers (cloud drives). 
+* [keepasshttp](https://github.com/pfn/keepasshttp) - KeePass plugin to expose password entries securely (256bit
   AES/CBC) over HTTP.
 * [Keebuntu](https://github.com/dlech/Keebuntu) - KeePass 2.x plugins that provide Linux Desktop integration.
 * [KeeAgent](https://github.com/dlech/KeeAgent) - Plugin for KeePass 2.x. It allows other programs to access SSH keys
