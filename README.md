@@ -20,7 +20,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
     * [Other clients](#other-clients)
 * [API libraries](#api-libraries)
 * [Plugins](#plugins)
-* [Tools](#tools))
+* [Tools](#tools)
 * [Security](#security)
 * [Docs and articles](#docs-and-articles)
     * [Docs and articles](#docs-and-articles-ru)
@@ -123,8 +123,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 #### KeePassXC-based
 
-* [ulauncher-keepassxc](https://github.com/pbkhrv/ulauncher-keepassxc) - About
-  Ulauncher extension to quickly search a KeePassXC password manager database
+* [ulauncher-keepassxc](https://github.com/pbkhrv/ulauncher-keepassxc) - Ulauncher extension to quickly search a KeePassXC password manager database
 * [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) - `rust` Helper that allows Git (
   and shell scripts) to use KeePassXC as credential store
 * [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - Extension
