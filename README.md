@@ -104,6 +104,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 ### Other clients
 
+* [kpcli](http://kpcli.sourceforge.net/) - A command line interface (interactive shell) to work with KeePass 1.x or 2.x database files
 * [WinPass](https://github.com/gkardava/WinPass) - KeePass password manager client for Windows Mobile
 * [KeePassTouch](https://github.com/DannyGB/KeePassTouch) - `QML&C++` Ubuntu Touch Version of KeePass
 * [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) - `rust` Helper that allows Git (
