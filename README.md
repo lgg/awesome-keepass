@@ -107,8 +107,6 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [kpcli](http://kpcli.sourceforge.net/) - A command line interface (interactive shell) to work with KeePass 1.x or 2.x database files
 * [WinPass](https://github.com/gkardava/WinPass) - KeePass password manager client for Windows Mobile
 * [KeePassTouch](https://github.com/DannyGB/KeePassTouch) - `QML&C++` Ubuntu Touch Version of KeePass
-* [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) - `rust` Helper that allows Git (
-  and shell scripts) to use KeePassXC as credential store
 * [passhole](https://github.com/Evidlo/passhole) - `python` passhole is a commandline password manager for KeePass
   inspired by [pass](https://www.passwordstore.org/)
 * [kdbxviewer](http://max-weller.github.io/kdbx-viewer/) - Command-line tool written in C for KeePass2 Database files (
@@ -120,12 +118,19 @@ and most secure encryption algorithms currently known (AES and Twofish).
   two KeePass Database files.
 * [passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill
   passwords from KeePass (requires KeePassHttp).
-* [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - Extension
-  for [Chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk)
-  and [Firefox](https://addons.mozilla.org/es/firefox/addon/keepassxc-browser/) to allow auto form-fill passwords from
-  KeepassXC.
 * [Tusk](https://github.com/subdavis/Tusk) - `archived` - `js` KeePass-compatible browser extension for filling
   passwords.
+
+#### KeePassXC-based
+
+* [ulauncher-keepassxc](https://github.com/pbkhrv/ulauncher-keepassxc) - About
+  Ulauncher extension to quickly search a KeePassXC password manager database
+* [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) - `rust` Helper that allows Git (
+  and shell scripts) to use KeePassXC as credential store
+* [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - Extension
+    for [Chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk)
+    and [Firefox](https://addons.mozilla.org/es/firefox/addon/keepassxc-browser/) to allow auto form-fill passwords from
+    KeepassXC.
 
 ## API libraries
 
