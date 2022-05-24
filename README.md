@@ -2,6 +2,8 @@
 
 A curated list of [KeePass](https://keepass.info/)-related projects.
 
+> ⭐️ Thanks **everyone** who has starred the project, it means a lot!
+
 KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. You can put
 all your passwords in one database, which is locked with one master key or a key file. So you only have to remember one
 single master password or select the key file to unlock the whole database. The databases are encrypted using the best
