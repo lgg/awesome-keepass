@@ -36,6 +36,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassXC](https://keepassxc.org/) - KeePass Cross-Platform Community Edition.
     * [Source code](https://github.com/keepassxreboot/keepassxc) - `C++` KeePassXC is a cross-platform community-driven
       port of the Windows application “Keepass Password Safe”
+* [keepassx](https://github.com/keepassx/keepassx): KeePassX is an application for people with extremely high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.
 * [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
     * [Source Code](https://github.com/keeweb/keeweb)
 * [AuthPass](https://github.com/authpass/authpass) - `Dart` Password Manager based on Flutter for all platforms. Keepass
