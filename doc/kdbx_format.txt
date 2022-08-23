@@ -1,0 +1,104 @@
+Reverse Engineered KeePass (KDBX) File Format
+=============================================
+
+Integers are stored in little endian format.
+
+*Magic bytes
+
+8 bytes:
+0x03, 0xd9, 0xa2, 0x9a, 0x67, 0xfb, 0x4b, 0xb5
+
+The magic bytes are used as a first check to determine if a file could be a KDBX file.
+
+*Format version
+
+This field is uint32, where the upper 16 bits represent the major version, and the lower 16 bits represent the minor version.
+
+Version 2.20.1: 0x003001
+
+*Header
+
+The header consists of a number of header fields. The order of the fields is not important. Header fields are read until the end of header field is encountered. A header field starts with a header with the following structure:
+
+uint8	id
+uint16	size of field data
+
+followed by the field data.
+
+Header fields
+
+end of header
+
+id	0
+size	4
+data	0x0d, 0x0a, 0x0d, 0x0a
+
+comment
+
+id	1
+
+The comment field seems to be ignored in KeePass.
+
+cipher id
+
+id	2
+
+The cipher id is 16 bytes. For AES-CBC with PKCS7 padding, which is the default cipher, the id is
+0x31,0xc1,0xf2,0xe6,0xbf,0x71,0x43,0x50,0xbe,0x58,0x05,0x21,0x6a,0xfc,0x5a,0xff
+
+compression
+
+id	3
+size	4
+data    0x00,0x00,0x00,0x00 (no compression)
+
+master seed
+
+id	4
+size	32
+
+The master seed is a 32 byte salt value for the key transformation.
+
+transform seed
+
+id	5
+size	KeePass writes 32 bytes of transform seed, but accepts a seed of any length when reading a file.
+
+The transform seed is another salt value for the key transformation.
+
+number of transform rounds
+
+id	6
+size	8
+
+The number of key transformation rounds, expressed as an uint64.
+
+iv
+
+id	7
+size	KeePass always writes 16 bytes of IV, but the length is not checked when reading the file.
+        Having the wrong IV length would cause an exception in the encryption engine, though.
+
+The IV of the cipher.
+
+protected stream key
+
+id	8
+size	KeePass always writes 32 bytes, but length is not checked when reading the file.
+
+the protected stream key seems to be a way to obfuscate some fields of the decrypted file.
+
+stream start bytes
+
+id	9
+size	32
+
+the initial 32 bytes of the decrypted stream, used to verify that the decryption key is
+probably correct before decrypting the entire stream
+
+inner random stream id
+
+id	10
+size	4
+
+an uint32 giving the algorithm used to produce the random stream used with the protected stream key for obfuscation
