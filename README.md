@@ -148,7 +148,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassKit](https://github.com/MacPass/KeePassKit) - `Objective-C` KeePass database loading, storing and manipulation
   framework.
 * [KeePassJava2](https://github.com/jorabin/KeePassJava2) - `Java` Java API for KeePass Password Databases - Read/Write
-  2.x, Read 1.x
+  compatible with Keepass versions 2.x (kdbx versions 3 and 4), Read 1.x
 * [openkeepass](https://github.com/cternes/openkeepass) - `Java` A java library for reading and writing KeePass
   databases. It is an intuitive java library that supports KeePass 2.x database files.
 * [kotpass](https://github.com/Anvell/kotpass) - `Kotlin` Provides reading/writing support for KDBX files (versions 3.x/4.x). 
