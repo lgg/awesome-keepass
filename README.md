@@ -112,7 +112,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassTouch](https://github.com/DannyGB/KeePassTouch) - `QML&C++` Ubuntu Touch Version of KeePass
 * [passhole](https://github.com/Evidlo/passhole) - `python` passhole is a commandline password manager for KeePass
   inspired by [pass](https://www.passwordstore.org/)
-* [kdbxviewer](http://max-weller.github.io/kdbx-viewer/) - Command-line tool written in C for KeePass2 Database files (
+* [kdbxviewer](https://luelista.net/kdbxviewer/) - Command-line tool written in C for KeePass2 Database files (
   kdbx).
 * [keepass-chrome](https://github.com/btd/keepass-chrome) - Small proof of concept extension that loads keepass .kdbx
   files and allow to get and add passwords.
