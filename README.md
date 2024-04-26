@@ -118,6 +118,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
   files and allow to get and add passwords.
 * [keepass-diff](https://github.com/Narigo/keepass-diff) - Command-line tool written in Rust to show differences between
   two KeePass Database files.
+* [keepass-print](https://github.com/mojoaxel/keepass-print) - Command-line tool written in JavaScript to print password list for long-term backup.
 * [passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill
   passwords from KeePass (requires KeePassHttp).
 * [Tusk](https://github.com/subdavis/Tusk) - `archived` - `js` KeePass-compatible browser extension for filling
