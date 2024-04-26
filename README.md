@@ -114,6 +114,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
   inspired by [pass](https://www.passwordstore.org/)
 * [kdbxviewer](https://luelista.net/kdbxviewer/) - Command-line tool written in C for KeePass2 Database files (
   kdbx).
+      * [Source code](https://github.com/luelista/kdbxviewer)
 * [keepass-chrome](https://github.com/btd/keepass-chrome) - Small proof of concept extension that loads keepass .kdbx
   files and allow to get and add passwords.
 * [keepass-diff](https://github.com/Narigo/keepass-diff) - Command-line tool written in Rust to show differences between
