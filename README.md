@@ -195,10 +195,14 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 * [KeePass Help Center](https://keepass.info/help/base/index.html) - Official docs and tutorials.
 * [KDBX 4](https://keepass.info/help/kb/kdbx_4.html) - Info about KDBX 4 file format.
-* [Reverse Engineered KeePass (KDBX) File Format](https://max-weller.github.io/kdbx-viewer/kdbx_format.html) ([local copy of article](./doc/))
+* [Reverse Engineered KeePass (KDBX 3) File Format](https://max-weller.github.io/kdbx-viewer/kdbx_format.html) ([local copy of article](./doc/))
 * [Reading a Keepass 2 file with Go](https://www.sysorchestra.com/2015/06/20/reading-a-keepass-file-from-go/)
 * [Keepass file format explained](https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45)
 * [KeePass v2.x (KDBX v3.x) file format](https://gist.github.com/msmuenchen/9318327)
+* [KeePassXC](https://github.com/keepassxreboot/keepassxc-specs) - a schema and a document. 
+* [KeePassJava2](https://github.com/jorabin/KeePassJava2#keepassjava2-and-keepass) - a schema and a diagram.
+* [KDBX V4 format](https://palant.info/2023/03/29/documenting-keepass-kdbx4-file-format/).
+
 
 ### Docs and articles RU
 
