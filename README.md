@@ -204,12 +204,6 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassJava2](https://github.com/jorabin/KeePassJava2#keepassjava2-and-keepass) - a schema and a diagram.
 * [KDBX V4 format](https://palant.info/2023/03/29/documenting-keepass-kdbx4-file-format/).
 
-
-### Docs and articles RU
-
-* [How I made web-version of KeePass](https://habrahabr.ru/post/269895/) - `ru` Info about kdbx format and developing an
-  app for it.
-
 ## License
 
 * MIT, [lgg](https://github.com/lgg) and [contributors](https://github.com/lgg/awesome-keepass/graphs/contributors)   
