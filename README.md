@@ -98,6 +98,8 @@ and most secure encryption algorithms currently known (AES and Twofish).
   Android.
     * [Source code](https://github.com/Kunzisoft/KeePassDX)
 * [TinyKeePass](https://github.com/sorz/TinyKeePass) - `Java/Kotlin` Another simple read-only KeePass Android app
+* [KeePassVault](https://play.google.com/store/apps/details?id=com.ivanovsky.passnotes) - KeePass password manager for Android
+    * [Source code](https://github.com/aivanovski/keepassvault)
 
 ### Extensions clients
 
@@ -119,6 +121,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
   files and allow to get and add passwords.
 * [keepass-diff](https://github.com/Narigo/keepass-diff) - Command-line tool written in Rust to show differences between
   two KeePass Database files.
+* [kp-diff](https://github.com/aivanovski/kp-diff) - Command-line tool written in Kotlin to show differences between KeePass Database files.
 * [keepass-print](https://github.com/mojoaxel/keepass-print) - Command-line tool written in JavaScript to print password list for long-term backup.
 * [passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill
   passwords from KeePass (requires KeePassHttp).
