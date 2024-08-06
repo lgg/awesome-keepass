@@ -54,8 +54,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 * [MacPass](https://macpassapp.org/) - Native OS X KeePass client.
     * [Source code](https://github.com/MacPass/MacPass/)
-* [Strongbox](https://strongboxsafe.com/) - Commercial Open-Source Password Manager for iOS & OSX. Free tier available.
-    * [Source code](https://github.com/strongbox-password-safe/Strongbox)
+* *closed source* [Strongbox](https://strongboxsafe.com/) - Commercial Password Manager for iOS & OSX. Free tier available.
 * *closed source* [Kypass Companion](http://www.kyuran.be/software/kypass4mac/) - A native KeePass compatible client for
   macOS (database format 1 and 2).
 
@@ -72,16 +71,14 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 ### iOS clients
 
-* [Strongbox](https://strongboxsafe.com/) - Commercial Open-Source Password Manager for iOS and OSX. Free tier
+* *closed source* [Strongbox](https://strongboxsafe.com/) - Commercial Password Manager for iOS and OSX. Free tier
   available.
-    * [Source code](https://github.com/strongbox-password-safe/Strongbox)
 * [KeePassium](https://keepassium.com/) - Commercial Open-Source Password Manager for iOS. Free tier available.
     * [Source code](https://github.com/keepassium/KeePassium) - `swift` KeePass-compatible password manager for iOS
 * `closed source` [Kypass 4](http://www.kyuran.be/software/kypass/) - KyPass is a Password Management for iPhone and
   iPad.
-* `discontinued` ~~[MiniKeePass](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808) - MiniKeePass
-  provides secure password storage on your phone that's compatible with KeePass.~~
-    * [Source Code](https://github.com/MiniKeePass/MiniKeePass)
+* [KeePass Touch](https://apps.apple.com/ru/app/keepass-touch/id966759076)
+* `discontinued` [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass)
 
 ### Android clients
 
