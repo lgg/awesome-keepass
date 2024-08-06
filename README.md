@@ -172,6 +172,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassWinHello](https://github.com/sirAndros/KeePassWinHello) - `C#` Quick unlock KeePass 2 database using
   biometrics with Windows Hello
 * [FluentPassFinder](https://github.com/yusei36/FluentPassFinder) - `C#` KeePass Plugin with a fluent design search window to quickly find entries and autotype or copy passwords or other fields. Shortcut can be used to open the small search window from everywhere.
+* [KeePassQuery](https://github.com/Mikescher/KeePassQuery) -  `C#` Query your KeePass with SQL expressions
 
 ## Tools
 
