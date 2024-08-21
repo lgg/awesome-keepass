@@ -202,6 +202,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassXC](https://github.com/keepassxreboot/keepassxc-specs) - a schema and a document. 
 * [KeePassJava2](https://github.com/jorabin/KeePassJava2#keepassjava2-and-keepass) - a schema and a diagram.
 * [KDBX V4 format](https://palant.info/2023/03/29/documenting-keepass-kdbx4-file-format/).
+* [keeweb(KeePass Web): alternative to airtable?](https://github.com/keeweb/keeweb/discussions/2176) - keeweb/github discussions.
 
 ## License
 
