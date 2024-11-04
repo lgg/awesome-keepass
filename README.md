@@ -42,6 +42,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [AuthPass](https://github.com/authpass/authpass) - `Dart` Password Manager based on Flutter for all platforms. Keepass
   2.x (kdbx 3.x) compatible
 * [KeePass-electron](https://github.com/IlyaPomaskin/KeePass-electron) - Desktop HTML5 client for KeePass 2.
+* [OneKeePass](https://github.com/OneKeePass/desktop) - A secure password manager for macOS,Linux and Windows platforms
 
 ### Windows clients
 
