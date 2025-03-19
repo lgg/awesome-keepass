@@ -62,7 +62,8 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 * [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass.
 * [keepass4web](https://github.com/lixmal/keepass4web/) - `perl+js` Application that serves KeePass database entries on
-  a web frontend
+  a web frontend (DEPRECATED)
+* [keepass4web-rs](https://github.com/lixmal/keepass4web-rs) rewrite of keepass4web in Rust
 * [BrowsePass](https://bitbucket.org/namn/browsepass/overview) - Web application to read KDBX files.
 * [keepass-node](https://github.com/gesellix/keepass-node) - KeePass2 editor for Node.js with a browser frontend.
 * [Kee Vault](https://github.com/kee-org/keevault) - `js` Kee Vault is a password manager for your web browser. Password
