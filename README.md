@@ -133,6 +133,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
     for [Chrome](https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk)
     and [Firefox](https://addons.mozilla.org/es/firefox/addon/keepassxc-browser/) to allow auto form-fill passwords from
     KeepassXC.
+* [keepass-2-file](https://github.com/Dracks/keepass-2-file) - `rust` Cli to generate any plain text config file pulling secrets from a keepass file
 
 ## API libraries
 
