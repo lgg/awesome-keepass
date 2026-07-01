@@ -55,6 +55,8 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 * [MacPass](https://macpassapp.org/) - Native OS X KeePass client.
     * [Source code](https://github.com/MacPass/MacPass/)
+* [KeePassium](https://keepassium.com/) - Commercial Open-Source Password Manager for MacOS. Free tier available.
+    * [Source code](https://github.com/keepassium/KeePassium) - `swift` KeePass-compatible password manager for MacOS
 * *closed source* [Strongbox](https://strongboxsafe.com/) - Commercial Password Manager for iOS & OSX. Free tier available.
 * *closed source* [Kypass Companion](http://www.kyuran.be/software/kypass4mac/) - A native KeePass compatible client for
   macOS (database format 1 and 2).
