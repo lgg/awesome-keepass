@@ -25,7 +25,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [Tools](#tools)
 * [Security](#security)
 * [Docs and articles](#docs-and-articles)
-    * [Docs and articles](#docs-and-articles-ru)
+    * [Docs and articles RU](#docs-and-articles-ru)
 
 ## Clients
 
@@ -57,7 +57,8 @@ and most secure encryption algorithms currently known (AES and Twofish).
     * [Source code](https://github.com/MacPass/MacPass/)
 * [KeePassium](https://keepassium.com/) - Commercial Open-Source Password Manager for MacOS. Free tier available.
     * [Source code](https://github.com/keepassium/KeePassium) - `swift` KeePass-compatible password manager for MacOS
-* *closed source* [Strongbox](https://strongboxsafe.com/) - Commercial Password Manager for iOS & OSX. Free tier available.
+* *source-available* [Strongbox](https://strongboxsafe.com/) - Commercial Password Manager for iOS & OSX. Free tier available.
+    * [Source code](https://github.com/strongbox-password-safe/Strongbox)
 * *closed source* [Kypass Companion](http://www.kyuran.be/software/kypass4mac/) - A native KeePass compatible client for
   macOS (database format 1 and 2).
 
@@ -75,8 +76,9 @@ and most secure encryption algorithms currently known (AES and Twofish).
 
 ### iOS clients
 
-* *closed source* [Strongbox](https://strongboxsafe.com/) - Commercial Password Manager for iOS and OSX. Free tier
+* *source-available* [Strongbox](https://strongboxsafe.com/) - Commercial Password Manager for iOS and OSX. Free tier
   available.
+    * [Source code](https://github.com/strongbox-password-safe/Strongbox)
 * [KeePassium](https://keepassium.com/) - Commercial Open-Source Password Manager for iOS. Free tier available.
     * [Source code](https://github.com/keepassium/KeePassium) - `swift` KeePass-compatible password manager for iOS
 * `closed source` [Kypass 4](http://www.kyuran.be/software/kypass/) - KyPass is a Password Management for iPhone and
@@ -104,6 +106,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePass Secret Management Extension for PowerShell](https://github.com/JustinGrote/SecretManagement.KeePass) - An
   extension vault that uses KeePass for the PowerShell Secret Management module. Store credentials, passwords, API keys,
   etc. for use in PowerShell scripts
+* [Kee](https://github.com/kee-org/browser-addon) - Browser add-on for linking Firefox and Chrome to Kee Vault or KeePass.
 
 ### Other clients
 
@@ -112,6 +115,9 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassTouch](https://github.com/DannyGB/KeePassTouch) - `QML&C++` Ubuntu Touch Version of KeePass
 * [passhole](https://github.com/Evidlo/passhole) - `python` passhole is a commandline password manager for KeePass
   inspired by [pass](https://www.passwordstore.org/)
+* [keepmenu](https://github.com/firecat53/keepmenu) - `python` dmenu/Rofi/Wofi-style frontend for auto-type and managing KeePass databases.
+* [Pastilda](https://www.crowdsupply.com/third-pin/pastilda) - Open-source hardware password manager that works with KeePass 2.x databases and emulates a USB keyboard.
+    * [Source code](https://bitbucket.org/thirdpin_team/pastilda)
 * [kdbxviewer](https://luelista.net/kdbxviewer/) - Command-line tool written in C for KeePass2 Database files (
   kdbx).
       * [Source code](https://github.com/luelista/kdbxviewer)
@@ -164,6 +170,8 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [Keebuntu](https://github.com/dlech/Keebuntu) - KeePass 2.x plugins that provide Linux Desktop integration.
 * [KeeAgent](https://github.com/dlech/KeeAgent) - Plugin for KeePass 2.x. It allows other programs to access SSH keys
   stored in your KeePass database for authentication.
+* [KeePassRPC](https://github.com/kee-org/keepassrpc) - KeePass plugin used by the Kee browser add-on to connect browsers to KeePass.
+* [KeeTrayTOTP](https://github.com/KeeTrayTOTP/KeeTrayTOTP) - KeePass 2.x plugin for TOTP codes, including Steam TOTP support.
 * [AdvancedConnectPlugin](https://github.com/aalbng/AdvancedConnectPlugin) - Plugin for KeePass which gives you the
   possibility to provide different applications for direct connections.
 * [SIC2KeePass](https://github.com/Alezy80/SIC2KeePass) - This plugin allows to transfer SafeInCloud databases directly
@@ -191,8 +199,11 @@ and most secure encryption algorithms currently known (AES and Twofish).
 ## Security
 
 * [mod0keecrack](https://github.com/devio/mod0keecrack) - KeePass 2 database master-password cracker.
+* [John the Ripper keepass2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/keepass2john.c) - Extracts KeePass database hashes for John the Ripper and Hashcat.
 * [KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from
   memory.
+* [KeeThief](https://github.com/GhostPack/KeeThief) - Extracts KeePass 2.x key material from memory and includes tooling
+  for KeePass trigger-system enumeration.
 * [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - Extracts master password from a KeePass 2.x database,
   directly from memory. Inspired by KeeFarce.
 
@@ -207,6 +218,12 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassXC](https://github.com/keepassxreboot/keepassxc-specs) - a schema and a document. 
 * [KeePassJava2](https://github.com/jorabin/KeePassJava2#keepassjava2-and-keepass) - a schema and a diagram.
 * [KDBX V4 format](https://palant.info/2023/03/29/documenting-keepass-kdbx4-file-format/).
+* [How difficult to crack KeePass master password?](https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password) - Discussion of KeePass master password brute-force resistance.
+
+### Docs and articles RU
+
+* [Настраиваем URL Overrides в Keepass2](https://habr.com/ru/articles/303894/) - Guide to KeePass2 URL Overrides for SSH/RDP/VNC and other connections.
+* [Пример базы Keepass для сетевого администратора](https://habr.com/ru/articles/304680/) - Practical KeePass database structure and automation examples for network administrators.
 
 ## License
 
