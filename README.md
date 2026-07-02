@@ -25,7 +25,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [Tools](#tools)
 * [Security](#security)
 * [Docs and articles](#docs-and-articles)
-    * [Docs and articles](#docs-and-articles-ru)
+    * [Docs and articles RU](#docs-and-articles-ru)
 
 ## Clients
 
@@ -116,6 +116,8 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [passhole](https://github.com/Evidlo/passhole) - `python` passhole is a commandline password manager for KeePass
   inspired by [pass](https://www.passwordstore.org/)
 * [keepmenu](https://github.com/firecat53/keepmenu) - `python` dmenu/Rofi/Wofi-style frontend for auto-type and managing KeePass databases.
+* [Pastilda](https://www.crowdsupply.com/third-pin/pastilda) - Open-source hardware password manager that works with KeePass 2.x databases and emulates a USB keyboard.
+    * [Source code](https://bitbucket.org/thirdpin_team/pastilda)
 * [kdbxviewer](https://luelista.net/kdbxviewer/) - Command-line tool written in C for KeePass2 Database files (
   kdbx).
       * [Source code](https://github.com/luelista/kdbxviewer)
@@ -197,6 +199,7 @@ and most secure encryption algorithms currently known (AES and Twofish).
 ## Security
 
 * [mod0keecrack](https://github.com/devio/mod0keecrack) - KeePass 2 database master-password cracker.
+* [John the Ripper keepass2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/keepass2john.c) - Extracts KeePass database hashes for John the Ripper and Hashcat.
 * [KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from
   memory.
 * [KeeThief](https://github.com/GhostPack/KeeThief) - Extracts KeePass 2.x key material from memory and includes tooling
@@ -215,6 +218,12 @@ and most secure encryption algorithms currently known (AES and Twofish).
 * [KeePassXC](https://github.com/keepassxreboot/keepassxc-specs) - a schema and a document. 
 * [KeePassJava2](https://github.com/jorabin/KeePassJava2#keepassjava2-and-keepass) - a schema and a diagram.
 * [KDBX V4 format](https://palant.info/2023/03/29/documenting-keepass-kdbx4-file-format/).
+* [How difficult to crack KeePass master password?](https://security.stackexchange.com/questions/8476/how-difficult-to-crack-keepass-master-password) - Discussion of KeePass master password brute-force resistance.
+
+### Docs and articles RU
+
+* [Настраиваем URL Overrides в Keepass2](https://habr.com/ru/articles/303894/) - Guide to KeePass2 URL Overrides for SSH/RDP/VNC and other connections.
+* [Пример базы Keepass для сетевого администратора](https://habr.com/ru/articles/304680/) - Practical KeePass database structure and automation examples for network administrators.
 
 ## License
 
