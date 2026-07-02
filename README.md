@@ -54,8 +54,8 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### iOS Clients
 
-- [Strongbox](https://strongboxsafe.com/) - Source-available commercial password manager for iOS with a free tier. ([source](https://github.com/strongbox-password-safe/Strongbox))
-- [KeePassium](https://keepassium.com/) - Open-source commercial password manager for iOS with a free tier. ([source](https://github.com/keepassium/KeePassium))
+- [Strongbox](https://apps.apple.com/app/strongbox-keepass-pwsafe/id897283731) - Source-available commercial password manager for iOS with a free tier.
+- [KeePassium](https://apps.apple.com/app/keepassium-keepass-passwords/id1435127111) - Open-source commercial password manager for iOS with a free tier.
 - [KyPass 4](http://www.kyuran.be/software/kypass/) - Closed-source password manager for iPhone and iPad.
 - [KeePass Touch](https://apps.apple.com/ru/app/keepass-touch/id966759076) - KeePass-compatible password manager for iPhone and iPad.
 
@@ -114,7 +114,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ## Tools
 
-- [pass import](https://github.com/roddhjav/pass-import) - pass extension for importing data from existing password managers.
+- [pass import](https://github.com/roddhjav/pass-import) - Extension for pass that imports data from existing password managers.
 - [KeePass2 to KeePassX Converter](https://github.com/dvorka/keepass2-to-keepassx) - Java tool for converting KeePass 2 databases to KeePassX databases.
 - [enpass-to-keepass](https://github.com/jsphpl/enpass-to-keepass) - Tool for converting Enpass CSV exports for import into KeePass databases with KeePassXC.
 - [ulauncher-keepassxc](https://github.com/pbkhrv/ulauncher-keepassxc) - Ulauncher extension for quickly searching a KeePassXC database.
