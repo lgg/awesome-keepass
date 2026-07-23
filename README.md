@@ -123,6 +123,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [keepass-diff](https://github.com/Narigo/keepass-diff) - Command-line tool written in Rust for showing differences between two KeePass database files.
 - [kp-diff](https://github.com/aivanovski/kp-diff) - Command-line tool written in Kotlin for showing differences between KeePass database files.
 - [keepass-print](https://github.com/mojoaxel/keepass-print) - Command-line tool written in JavaScript for printing password lists for long-term backup.
+- [secrets-dispatcher](https://github.com/nikicat/secrets-dispatcher) - Secret Service proxy that adds per-application approval and an audit log in front of any Secret Service keyring, including KeePassXC's, showing which apps read stored entries.
 
 ## Security
 
