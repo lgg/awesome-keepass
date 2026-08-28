@@ -103,6 +103,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [KeeAgent](https://github.com/dlech/KeeAgent) - KeePass 2.x plugin that lets other programs access SSH keys stored in a KeePass database.
 - [KeePassRPC](https://github.com/kee-org/keepassrpc) - KeePass plugin used by the Kee browser add-on to connect browsers to KeePass.
 - [KeeTrayTOTP](https://github.com/KeeTrayTOTP/KeeTrayTOTP) - KeePass 2.x plugin for TOTP codes, including Steam TOTP support.
+- [KeePassOTP](https://github.com/Rookiestyle/KeePassOTP) - KeePass 2 plugin for generating TOTP, HOTP, Steam, and legacy Yandex OTP codes.
 - [AdvancedConnectPlugin](https://github.com/aalbng/AdvancedConnectPlugin) - KeePass plugin for configuring application-specific direct connections.
 - [SIC2KeePass](https://github.com/Alezy80/SIC2KeePass) - KeePass plugin for importing SafeInCloud databases directly or from exported XML.
 - [QuickConnectPlugin](https://github.com/cristianst85/QuickConnectPlugin) - KeePass plugin for connecting to Windows, Linux, and ESXi hosts.
@@ -131,7 +132,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [John the Ripper keepass2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/keepass2john.c) - Tool for extracting KeePass database hashes for John the Ripper and Hashcat.
 - [KeeFarce](https://github.com/denandz/KeeFarce) - Tool for extracting passwords from KeePass 2.x databases directly from memory.
 - [KeeThief](https://github.com/GhostPack/KeeThief) - Tool for extracting KeePass 2.x key material from memory and enumerating KeePass trigger-system behavior.
-- [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - Tool for extracting master passwords from KeePass 2.x databases directly from memory.
+- [KeePassHax](https://github.com/HoLLY-HaCKeR/KeePassHax) - Tool for extracting master passwords from KeePass 2.x databases directly from memory.
 
 ## Docs and Articles
 
