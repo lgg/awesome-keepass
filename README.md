@@ -103,6 +103,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [KeeAgent](https://github.com/dlech/KeeAgent) - KeePass 2.x plugin that lets other programs access SSH keys stored in a KeePass database.
 - [KeePassRPC](https://github.com/kee-org/keepassrpc) - KeePass plugin used by the Kee browser add-on to connect browsers to KeePass.
 - [KeeTrayTOTP](https://github.com/KeeTrayTOTP/KeeTrayTOTP) - KeePass 2.x plugin for TOTP codes, including Steam TOTP support.
+- [KeePassOTP](https://github.com/Rookiestyle/KeePassOTP) - KeePass 2 plugin for generating TOTP, HOTP, Steam, and legacy Yandex OTP codes.
 - [AdvancedConnectPlugin](https://github.com/aalbng/AdvancedConnectPlugin) - KeePass plugin for configuring application-specific direct connections.
 - [SIC2KeePass](https://github.com/Alezy80/SIC2KeePass) - KeePass plugin for importing SafeInCloud databases directly or from exported XML.
 - [QuickConnectPlugin](https://github.com/cristianst85/QuickConnectPlugin) - KeePass plugin for connecting to Windows, Linux, and ESXi hosts.
