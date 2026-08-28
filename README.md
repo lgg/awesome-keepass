@@ -132,7 +132,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [John the Ripper keepass2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/keepass2john.c) - Tool for extracting KeePass database hashes for John the Ripper and Hashcat.
 - [KeeFarce](https://github.com/denandz/KeeFarce) - Tool for extracting passwords from KeePass 2.x databases directly from memory.
 - [KeeThief](https://github.com/GhostPack/KeeThief) - Tool for extracting KeePass 2.x key material from memory and enumerating KeePass trigger-system behavior.
-- [KeePassHax](https://github.com/HoLLY-HaCKeR/KeePassHax) - Tool for extracting master passwords from KeePass 2.x databases directly from memory.
+- [KeePassHax](https://github.com/HoLLy-HaCKeR/KeePassHax) - Tool for extracting master passwords from KeePass 2.x databases directly from memory.
 
 ## Docs and Articles
 
