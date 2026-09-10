@@ -30,6 +30,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [AuthPass](https://github.com/authpass/authpass) - Password manager based on Flutter for all platforms with KeePass 2.x compatibility.
 - [KeePass Electron](https://github.com/IlyaPomaskin/KeePass-electron) - Desktop HTML5 client for KeePass 2 databases.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure password manager for macOS, Linux, and Windows.
+- [KeeVault](https://github.com/lyj404/keevault) - Cross-platform password manager built with Flutter, KeePass compatible (KDBX 3.x/4.x) with WebDAV sync, TOTP, and biometric unlock. ([source](https://github.com/lyj404/keevault))
 
 ### Windows Clients
 
