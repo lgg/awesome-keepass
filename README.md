@@ -31,6 +31,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [KeePass Electron](https://github.com/IlyaPomaskin/KeePass-electron) - Desktop HTML5 client for KeePass 2 databases.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - Secure password manager for macOS, Linux, and Windows.
 - [KeeVault](https://github.com/lyj404/keevault) - Cross-platform password manager built with Flutter, KeePass compatible (KDBX 3.x/4.x) with WebDAV sync, TOTP, and biometric unlock.
+- [PassBrew](https://getapps.cafe/app/passbrew) - Closed-source commercial KeePass client for macOS and Windows that opens and creates KDBX files, with built-in TOTP codes.
 
 ### Windows Clients
 
