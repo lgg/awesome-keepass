@@ -77,6 +77,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Other Clients
 
+- [Bypass](https://github.com/yaroshevych/bypass) - Modern terminal secrets manager for KeePass KDBX 3.x and 4.x vaults on Linux and macOS.
 - [kpcli](http://kpcli.sourceforge.net/) - Command-line interface for KeePass 1.x and 2.x database files.
 - [WinPass](https://github.com/gkardava/WinPass) - KeePass password manager client for Windows Mobile.
 - [KeePassTouch](https://github.com/DannyGB/KeePassTouch) - Ubuntu Touch version of KeePass.
