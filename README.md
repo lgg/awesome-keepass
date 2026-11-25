@@ -47,6 +47,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 
 ### Web Clients
 
+- [Bypass Web](https://github.com/yaroshevych/bypass/tree/main/web) - Offline browser-based KeePass client distributed as a standalone HTML file, with KDBX 3.x and 4.x support.
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass.
 - [keepass4web-rs](https://github.com/lixmal/keepass4web-rs) - Rust rewrite of keepass4web.
 - [BrowsePass](https://bitbucket.org/namn/browsepass/overview) - Web application for reading KDBX files.
