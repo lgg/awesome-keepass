@@ -84,7 +84,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [KeePassTouch](https://github.com/DannyGB/KeePassTouch) - Ubuntu Touch version of KeePass.
 - [passhole](https://github.com/Evidlo/passhole) - Command-line password manager inspired by pass.
 - [keepmenu](https://github.com/firecat53/keepmenu) - Dmenu, Rofi, and Wofi-style frontend for auto-type and managing KeePass databases.
-- [Pastilda](https://www.crowdsupply.com/third-pin/pastilda) - Open-source hardware password manager that works with KeePass 2.x databases and emulates a USB keyboard. ([source, archived](https://web.archive.org/web/20250915163932/https://bitbucket.org/thirdpin_team/pastilda))
+- [Pastilda](https://www.crowdsupply.com/third-pin/pastilda) - Open-source hardware password manager that works with KeePass 2.x databases and emulates a USB keyboard. ([legacy source](https://github.com/thirdpin/pastilda), [Bitbucket archive lookup](https://web.archive.org/web/*/https://bitbucket.org/thirdpin_team/pastilda))
 - [kdbxviewer](https://github.com/luelista/kdbxviewer) - Command-line tool for viewing KeePass 2 database files.
 
 ## API Libraries
@@ -142,6 +142,7 @@ KeePass is a password manager ecosystem built around encrypted local database fi
 - [KeePass Help Center](https://keepass.info/help/base/index.html) - Official KeePass documentation and tutorials.
 - [KDBX 4](https://keepass.info/help/kb/kdbx_4.html) - Official documentation for the KDBX 4 file format.
 - [Reverse Engineered KeePass (KDBX 3) File Format](./doc/kdbx_format.html) - Reverse-engineered documentation for the KDBX 3 file format.
+- [Reading a KeePass 2 file with Go](https://www.sysorchestra.com/reading-a-keepass-file-from-go/) - Historical article about parsing KeePass 2 database files with Go. ([local notes](./doc/reading-keepass-2-with-go.md))
 - [KeePass file format explained](https://gist.github.com/lgg/e6ccc6e212d18dd2ecd8a8c116fb1e45) - Notes explaining the KeePass database file format.
 - [KeePass v2.x (KDBX v3.x) file format](https://gist.github.com/msmuenchen/9318327) - Notes about the KeePass v2.x KDBX v3.x file format.
 - [KeePassXC Specs](https://github.com/keepassxreboot/keepassxc-specs) - Schema and documentation for KeePassXC database handling.
